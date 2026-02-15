@@ -8,7 +8,7 @@ function Contact() {
       className="relative h-[55vh] xl:bg-contain bg-center flex items-center"
       style={{
         backgroundImage:
-          "url('public/contact-2.jpg')",
+          "url(/contact-2.jpg)",
       }}
     >
       <div className="absolute inset-0 bg-black/60"></div>

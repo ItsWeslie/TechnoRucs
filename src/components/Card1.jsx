@@ -1,6 +1,7 @@
 import React from "react";
 import { Button } from "./ui/button";
 import { FaArrowRight } from "react-icons/fa6";
+import Img from "/public/img-4.jpg";
 
 function Card1() {
   return (
@@ -25,7 +26,7 @@ function Card1() {
         <div className="grow-2 hidden lg:block">
           <img
             className="mx-auto rounded-2xl h-80 mt-25 shadow-lg"
-            src="public/img-4.jpg"
+            src={Img}
             alt="img-4.jpg"
           />
         </div>
