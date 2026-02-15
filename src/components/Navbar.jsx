@@ -11,6 +11,7 @@ import {
 } from "./ui/menubar";
 import Technorucs from "/src/assets/images/TechnoRUCS-Final.png";
 import { Button } from "./ui/button";
+import { Menu, X } from "lucide-react";
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
