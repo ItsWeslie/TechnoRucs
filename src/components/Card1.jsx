@@ -25,7 +25,7 @@ function Card1() {
         <div className="grow-2 hidden lg:block">
           <img
             className="mx-auto rounded-2xl h-80 mt-25 shadow-lg"
-            src="src/assets/images/img-4.jpg"
+            src="public/img-4.jpg"
             alt="img-4.jpg"
           />
         </div>
